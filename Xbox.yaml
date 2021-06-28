@@ -1,5 +1,3 @@
-#payload:  
-  # > Microsoft
-  - DOMAIN-KEYWORD,xbox
-  - DOMAIN-KEYWORD,xboxlive
-  - DOMAIN-SUFFIX,xboxlive.com
+- DOMAIN-KEYWORD,xbox,DIRECT
+- DOMAIN-KEYWORD,xboxlive,DIRECT
+- DOMAIN-SUFFIX,xboxlive.com,DIRECT
