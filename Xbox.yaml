@@ -1,4 +1,4 @@
-payload:  
+#payload:  
   # > Microsoft
   - DOMAIN-KEYWORD,xbox
   - DOMAIN-KEYWORD,xboxlive
